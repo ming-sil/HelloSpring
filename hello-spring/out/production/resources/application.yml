@@ -1,0 +1,7 @@
+spring:
+# PostgreSQL DB ??
+datasource:
+driver-class-name: org.postgresql.Driver
+url: jdbc:postgresql://localhost:5432/test
+username: inp000
+password: qhdks@00
